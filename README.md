@@ -4,7 +4,7 @@
 **JatinTechPro/JatinTechPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> I’m currently working on ...!>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💫 About Me:
 Passionate and self-driven tech enthusiast with a strong interest in full-stack development  and building scalable web applications. Eager to solve real-world problems through clean code, creative thinking, and continuous learning. Proficient in MERN stack, and always exploring new tools and technologies to stay ahead in the evolving tech landscape.
 ## 🌐 Socials:
